@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp6-lenguaje-Tracanna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd4af6051c1fbeebd63ef98661652aded55d593a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2db914e883a0f5c18d155df776c416f8d126d525")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp6-lenguaje-Tracanna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp6-lenguaje-Tracanna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

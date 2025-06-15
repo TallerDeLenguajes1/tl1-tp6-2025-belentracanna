@@ -12,3 +12,4 @@ C:\taller1\tp6-lenguaje-Tracanna\obj\Debug\net8.0\refint\tp6-lenguaje-Tracanna.d
 C:\taller1\tp6-lenguaje-Tracanna\obj\Debug\net8.0\tp6-lenguaje-Tracanna.pdb
 C:\taller1\tp6-lenguaje-Tracanna\obj\Debug\net8.0\tp6-lenguaje-Tracanna.genruntimeconfig.cache
 C:\taller1\tp6-lenguaje-Tracanna\obj\Debug\net8.0\ref\tp6-lenguaje-Tracanna.dll
+C:\taller1\tp6-lenguaje-Tracanna\obj\Debug\net8.0\tp6-lenguaje-Tracanna.sourcelink.json
